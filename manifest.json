@@ -1,0 +1,21 @@
+{
+  "name": "Playback Rate",
+  "version": "1.0",
+  "description": "Addjust the playback rate of all videos in this page!",
+  "manifest_version": 2,
+  "permissions": ["activeTab"],
+  "icons": {
+    "16": "src/icons/16.png",
+    "48": "src/icons/48.png",
+    "128": "src/icons/128.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "src/icons/16.png",
+      "24": "src/icons/24.png",
+      "32": "src/icons/32.png"
+    },
+    "default_title": "Playback Rate",
+    "default_popup": "src/html/popup.html"
+  }
+}
