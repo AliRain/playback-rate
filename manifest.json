@@ -1,7 +1,7 @@
 {
   "name": "Playback Rate",
   "version": "1.0",
-  "description": "Addjust the playback rate of all videos in this page!",
+  "description": "Adjust the playback rate of all videos in this page!",
   "manifest_version": 2,
   "permissions": ["activeTab"],
   "icons": {
